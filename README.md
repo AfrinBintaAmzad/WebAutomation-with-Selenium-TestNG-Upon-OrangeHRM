@@ -9,7 +9,7 @@
 ## Language Used:
 - Java
 
-## Scenario:
+## Scenario For The Task:
 - 1. Login to orange hrm demo site
 https://opensource-demo.orangehrmlive.com/
 
@@ -22,3 +22,10 @@ https://opensource-demo.orangehrmlive.com/
 - 8. Select Gender and Blood Type and save it
 - 9. Click on contact details and input address and email
 - 10. Logout the user
+
+
+
+![image](https://user-images.githubusercontent.com/83439797/222136700-a5887ddc-960a-40fe-9880-aff3e359f440.png)
+
+![image](https://user-images.githubusercontent.com/83439797/222136782-b080df01-11bf-417f-a7b3-4a227c01a3d5.png)
+

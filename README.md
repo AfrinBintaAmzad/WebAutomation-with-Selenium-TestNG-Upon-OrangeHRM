@@ -27,5 +27,5 @@ https://opensource-demo.orangehrmlive.com/
 
 ![image](https://user-images.githubusercontent.com/83439797/222136700-a5887ddc-960a-40fe-9880-aff3e359f440.png)
 
-![image](https://user-images.githubusercontent.com/83439797/222136782-b080df01-11bf-417f-a7b3-4a227c01a3d5.png)
+![image](https://user-images.githubusercontent.com/83439797/222137416-b422409f-fef2-4e40-8b1e-807491515526.png)
 

@@ -64,14 +64,18 @@ public class UsersInformationPage {
         String postalCode=faker.address().zipCode();
         txtInput.get(5).sendKeys(postalCode);
         Thread.sleep(1500);
+        
+        
         dropdownCountry.click();
         dropdownCountry.sendKeys(Keys.ARROW_DOWN);
+        
+        
         Thread.sleep(1500);
         dropdownCountry.sendKeys(Keys.ARROW_DOWN);
         Thread.sleep(1500);
         dropdownCountry.sendKeys(Keys.ENTER);
         Thread.sleep(1500);
-        txtInput.get(7).sendKeys("+18143008329");
+        txtInput.get(7).sendKeys("");
         String email = "user"+Utils.generateRandomNumber(100, 999)+"@gmail.com";
         txtInput.get(9).sendKeys(email);
         Thread.sleep(1500);
